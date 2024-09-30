@@ -1,0 +1,302 @@
+*{
+	
+	box-sizing: border-box;
+	
+}
+#header{
+	
+	font-size: 30px;
+	margin-left: 10px;
+}
+#admin{
+	
+	margin-left: 80%;
+	
+	
+
+}
+
+body{
+
+	background: linear-gradient(135deg, #ADD8E6, #F0F8FF);
+
+	
+}
+
+#one{
+
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 10px;
+	max-width: auto;
+	
+	height: auto;
+	justify-content: center;
+	
+	
+
+	
+
+}
+#two{
+
+	height: auto;
+	max-width: 700px;
+	width: 100%;
+	background:  #fff;
+	padding: 25px 30px;
+	border-radius: 5px;
+}
+
+.container .title2{
+
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 25px;
+	font-weight: 500;
+	justify-content: center;
+	width: calc(100% / 100px);
+	
+
+}
+
+.container form .user-details{
+
+	
+}
+
+
+
+form .user-details .input-box0 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -25px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box1 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;	
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-boxDate input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;	
+	width: 33.5%;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box2 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box3 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;	
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box4 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box5 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;	
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}
+.user-details .input-box6 input{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: calc(100% / 100px);
+	height: 50px;
+	margin-left: 262px;
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+}		
+ #gender{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: -20px;
+	width: 33.5%;
+	height: 45px;
+	margin-left: 262px;
+	margin-bottom: 5px;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding-left: 15px;
+	font-size: 16px;
+	border-bottom-width: 2px;
+	transition: all 0.3 ease;
+
+	
+	
+}
+
+.user-details .input-box0 input:focus,
+.user-details .input-box0 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box1 input:focus,
+.user-details .input-box1 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-boxDate input:focus,
+.user-details .input-boxDate input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box2 input:focus,
+.user-details .input-box2 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box3 input:focus,
+.user-details .input-box3 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box4 input:focus,
+.user-details .input-box4 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box5 input:focus,
+.user-details .input-box5 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box6 input:focus,
+.user-details .input-box6 input:valid{
+
+	border-color: #9b59b6;
+}
+.user-details .input-box7 input:focus,
+.user-details .input-box7 input:valid{
+
+	border-color: #9b59b6;
+}
+
+
+
+
+
+
+
+form .button input{
+
+	height: 45px;
+	width: 30%;
+	margin-top: 20px;
+	margin-left: 80px;
+
+}
+@media (max-width: 584px){
+
+	.container{
+		max-width: 100%;
+		
+	}
+	form .user-details .input-box0, .input-box1, .input-boxDate, .input-box2, .input-box3, .input-box4, 
+	.input-box5, .input-box6{
+
+		margin-bottom: 15px;
+		width: 100%;
+	}
+
+	.container form .user-details{
+		max-height: 300px;
+		overflow: scroll;
+	}
+	
+	
+}
+
+
+}
